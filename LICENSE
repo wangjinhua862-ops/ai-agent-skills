@@ -1,0 +1,35 @@
+本仓库内容采用「知识共享 署名-非商业性使用-相同方式共享 4.0 国际」许可协议
+（Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International，CC BY-NC-SA 4.0）。
+
+你可以自由地：
+  - 共享 —— 以任何媒介或格式复制、发行本作品
+  - 演绎 —— 修改、转换本作品，或基于本作品进行创作
+
+惟须遵守下列条件：
+  - 署名 —— 必须注明来源与作者，并提供协议链接；若作出修改，须标示出来
+  - 非商业性使用 —— 不得将本作品用于商业目的
+  - 相同方式共享 —— 若修改、转换或基于本作品创作，必须以相同协议分发你的作品
+  - 不得增加法律限制或技术措施，限制他人依本协议所允许的行为
+
+协议全文（简体中文）：
+  https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans
+协议摘要（简体中文）：
+  https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans
+
+────────────────────────────────────────
+来源与署名
+────────────────────────────────────────
+
+本仓库的 `portfolio-site-build/` 内含 esthersjw/esther-design-system 的派生内容
+（布局库结构、自检表骨架、流程骨架），按其条款署名如下：
+
+  Design system structure adapted from ESTHER不二 / esther-design-system, CC BY-NC-SA 4.0
+
+该派生仅限结构与组织方式；不含对方不在 CC 授权范围内的内容（姓名、头像、Logo、IP 形象等）。
+
+本仓库本身的来源（二次发布 / 分发 / 改编时必须注明）：
+
+  AI Agent Console Skills by Hua
+  https://github.com/wangjinhua862-ops/ai-agent-skills
+
+转载、分发或以本仓库为基础创作时，须保留上述来源链接与许可说明，且不得用于商业目的。

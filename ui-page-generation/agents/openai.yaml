@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Agent 控制台原型（Figma）"
+  short_description: "ASCII + 设计规范 → Figma 高保真原型页"
+  default_prompt: "用 ui-page-generation 按我给的 ASCII 和设计规范做一版 Figma 原型页"

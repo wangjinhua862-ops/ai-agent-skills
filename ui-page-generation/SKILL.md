@@ -75,3 +75,4 @@ metadata:
 - **来源**：AI Agent Console Skills by **Hua** —— https://github.com/wangjinhua862-ops/ai-agent-skills
 - **许可**：CC BY-NC-SA 4.0（署名 · **禁止商用** · 修改后须以相同协议分享）。
 - **二次发布 / 分发 / 改编必须注明来源**（保留上面那条链接与本段），不得用于商业目的。
+- 署名只表示内容来源，**不等于**姓名 / 头像 / Logo / 品牌标识的使用授权。

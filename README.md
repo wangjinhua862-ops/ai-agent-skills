@@ -14,6 +14,16 @@
 
 ---
 
+> **开源的是什么**：这套方法论、工作流、规范与模板本身。
+>
+> **请替换成你自己的信息**：姓名、头像、Logo、品牌与配色全用你自己的——本仓库只给方法，
+> 不给任何人的品牌资产。`portfolio-site-build/references/brand-dna.md` 是**占位骨架**，请填你自己的值。
+>
+> **署名 ≠ 身份授权**：按协议署名只表示「内容来自这里」，
+> 不等于可以使用作者的姓名、头像、Logo 或品牌标识。
+
+---
+
 ## 1. `ui-page-generation` —— Figma 原型页生成
 
 **做什么**：吃进 ASCII 线框图 + 文字设计规范（字号 / 颜色 / 间距 / 组件），
@@ -85,19 +95,28 @@ portfolio-site-build/
   references/checklist.md   P0 / P1 / P2 交付自检
 ```
 
-## 许可
+## Credits
 
-本仓库采用 **CC BY-NC-SA 4.0**（署名 · 非商业性使用 · 相同方式共享）。
+- `portfolio-site-build` 的**流程骨架、布局库结构与自检表骨架**改编自
+  **ESTHER不二 (esthersjw)** 的 [esther-design-system](https://github.com/esthersjw/esther-design-system)（CC BY-NC-SA 4.0）。
+- 感谢所有把工作方法写成可复用规范、并公开出来的人。
+
+## License
+
+[![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+本仓库的方法论、工作流、规范、模板与文档，采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议。
 详见 [LICENSE](LICENSE)。
 
-其中 `portfolio-site-build` 的**流程骨架、布局库结构与自检表骨架**改编自
-**ESTHER不二 (esthersjw)** 的 `esther-design-system`（同样为 CC BY-NC-SA 4.0），
-按其条款署名、禁商用、以相同协议分享。
+- ✅ 可以学习、使用、修改、分享
+- ✅ 必须注明来源：AI Agent Console Skills by **Hua** —— https://github.com/wangjinhua862-ops/ai-agent-skills
+- ❌ 禁止将本仓库内容用于商业用途
+- 🔄 修改后必须以相同协议分享
 
-## 来源与转载
+### Name, Image and IP Notice
 
-**来源：AI Agent Console Skills by Hua —— https://github.com/wangjinhua862-ops/ai-agent-skills**
+本仓库授权的是方法论、规范、流程、模板与文档本身。
+「Hua」（以及与本仓库相关的头像、Logo、品牌标识、账号标识、本人形象）**不在这份授权范围内**。
 
-- 可以学、可以改、可以自用；
-- **禁止商用**；
-- 二次发布、分发或改编**必须注明来源**（保留上面的仓库链接），并保留同样的 CC BY-NC-SA 4.0 许可。
+你可以按协议要求做事实性来源署名，但不能把这些标识用作自己的账号名、用户名、头像、品牌名、
+角色名或产品名，也不要让人误以为本仓库作者参与、授权或背书了你的账号、作品、产品、课程或服务。
